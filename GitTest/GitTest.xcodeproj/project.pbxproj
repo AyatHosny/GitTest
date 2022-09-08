@@ -16,6 +16,7 @@
 		8A90754828C9ECDC00E152BF /* GitTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A90754728C9ECDC00E152BF /* GitTestTests.swift */; };
 		8A90755228C9ECDD00E152BF /* GitTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A90755128C9ECDD00E152BF /* GitTestUITests.swift */; };
 		8A90755428C9ECDD00E152BF /* GitTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A90755328C9ECDD00E152BF /* GitTestUITestsLaunchTests.swift */; };
+		8A90756128C9EE5900E152BF /* Profile.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A90756028C9EE5900E152BF /* Profile.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8A90754D28C9ECDD00E152BF /* GitTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A90755128C9ECDD00E152BF /* GitTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestUITests.swift; sourceTree = "<group>"; };
 		8A90755328C9ECDD00E152BF /* GitTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8A90756028C9EE5900E152BF /* Profile.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Profile.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				8A90753928C9ECDC00E152BF /* Assets.xcassets */,
 				8A90753B28C9ECDC00E152BF /* LaunchScreen.storyboard */,
 				8A90753E28C9ECDC00E152BF /* Info.plist */,
+				8A90756028C9EE5900E152BF /* Profile.storyboard */,
 			);
 			path = GitTest;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			files = (
 				8A90753D28C9ECDC00E152BF /* LaunchScreen.storyboard in Resources */,
 				8A90753A28C9ECDC00E152BF /* Assets.xcassets in Resources */,
+				8A90756128C9EE5900E152BF /* Profile.storyboard in Resources */,
 				8A90753828C9ECBD00E152BF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
